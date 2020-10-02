@@ -1,0 +1,31 @@
+{
+  "tarefas": [
+    {
+      "descricao": "Aprender react",
+      "concluido": true,
+      "id": 1
+    },
+    {
+      "descricao": "Aprender react native",
+      "concluido": true,
+      "id": 2
+    },
+    {
+      "descricao": "JSON",
+      "id": 3,
+      "concluido": false
+    },
+    {
+      "descricao": "teste",
+      "concluido": false,
+      "id": 4
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "diego@domob.me",
+      "password": "123124"
+    }
+  ]
+}
